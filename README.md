@@ -94,7 +94,7 @@ BMW-Data-Preprocessing/
 
 ---
 
-## 🏁 Final Thoughts
+##  Final Thoughts
 This project helped me understand how **data preprocessing and visualization** are essential steps before applying any machine learning or predictive analysis.  
 It also demonstrates how real-world data can be converted into actionable business insights.
 
