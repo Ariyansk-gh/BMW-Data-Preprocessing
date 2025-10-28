@@ -102,7 +102,7 @@ It also demonstrates how real-world data can be converted into actionable busine
 
 ##  Author
 **Ariyan Shaikh**  
-📚 IT Graduate | Learnin Data Science
+📚 IT Graduate | Learning Data Science
  GitHub: [https://github.com/<your-username>](https://github.com/<your-username>)
 
 ---
