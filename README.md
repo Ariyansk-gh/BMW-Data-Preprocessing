@@ -16,7 +16,7 @@ It demonstrates how to handle raw datasets — cleaning, analyzing, and visualiz
 
 ---
 
-## 🧰 Tools & Libraries Used
+##  Tools & Libraries Used
 - **Python 3.x**
 - **Pandas** – data manipulation  
 - **NumPy** – numerical operations  
@@ -25,7 +25,7 @@ It demonstrates how to handle raw datasets — cleaning, analyzing, and visualiz
 
 ---
 
-## 📊 Key Steps Performed
+##  Key Steps Performed
 1. **Data Loading:**  
    Imported the dataset into a Pandas DataFrame for analysis.
 
@@ -74,7 +74,7 @@ BMW-Data-Preprocessing/
 
 ---
 
-## 🧩 How to Run This Project
+##  How to Run This Project
 1. Clone the repository:
    ```bash
    git clone https://github.com/<your-username>/BMW-Data-Preprocessing.git
@@ -100,12 +100,12 @@ It also demonstrates how real-world data can be converted into actionable busine
 
 ---
 
-## 👨‍💻 Author
+##  Author
 **Ariyan Shaikh**  
-📚 IT Graduate | Data Enthusiast | Python Learner  
-💼 GitHub: [https://github.com/<your-username>](https://github.com/<your-username>)
+📚 IT Graduate | Learnin Data Science
+ GitHub: [https://github.com/<your-username>](https://github.com/<your-username>)
 
 ---
 
-## 🪪 License
+##  License
 This project is licensed under the **MIT License** — feel free to use or modify it for educational purposes.
